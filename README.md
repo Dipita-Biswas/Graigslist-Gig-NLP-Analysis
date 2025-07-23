@@ -1,12 +1,12 @@
 # Craigslist Gig Analysis: Structuring Unstructured Work Listings with NLP
 
-This project applies natural language processing (NLP), clustering, and classification techniques to enhance user experience and platform intelligence for the Gigs section of Craigslist — a high-traffic but unstructured space for one-off and freelance jobs.
+This project applies natural language processing (NLP), clustering, and classification techniques to enhance user experience and platform intelligence for the Gigs section of Craigslist, a high-traffic but unstructured space for one-off and freelance jobs.
 
 ---
 
 ## Project Context
 
-The Craigslist Gigs section lacks categorization and sentiment cues, making it difficult for users to find relevant and trustworthy posts. I developed a solution to:
+The Craigslist Gigs section lacks categorization and sentiment cues, making it difficult for users to find relevant and trustworthy posts. we developed a solution to:
 - Group posts into meaningful themes using unsupervised learning
 - Predict emotional tone using sentiment analysis and classification
 - Add structure to free-text job listings, enabling smarter browsing and content moderation
